@@ -1,3 +1,5 @@
-This is my first file��
+This is my first file£¿
 
-I ����֪�� ����ô����
+I ¶¼²»ÖªµÀ ¸ÃÔõÃ´×ö£¿
+
+这个文件试试以UTF-8保存，看看会不会乱码，如果没乱码就是可行的，以后就这样操作就可以的。
